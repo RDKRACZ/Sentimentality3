@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "sentimentality3:block/quadruple_compressed_cobblestone_block"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "sentimentality3:block/couple_compressed_cobbled_deepslate_block"
-  }
-}
